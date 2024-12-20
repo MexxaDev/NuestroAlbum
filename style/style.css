@@ -104,3 +104,6 @@ button:disabled {
 .title{
     color: #658838;
 }
+a{
+    text-decoration: none;
+}
