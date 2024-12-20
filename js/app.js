@@ -7,6 +7,9 @@ const prevBtn = document.getElementById('prev-btn');
 const nextBtn = document.getElementById('next-btn');
 
 let currentIndex = 0;
+function iniciar(){
+    alert("Hay que esperar hasta el 4/4/2024 para completar esta etapa de aventuras ✈");
+}
 
 function updateMainImage(index) {
     thumbnails.forEach((thumb, i) => {
