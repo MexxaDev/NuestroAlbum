@@ -8,7 +8,7 @@ const nextBtn = document.getElementById('next-btn');
 
 let currentIndex = 0;
 function iniciar(){
-    alert("Hay que esperar hasta el 4/4/2025 para comenzar con este apartado ✈");
+    alert("Hay que esperar un poco mas para comenzar con este apartado ✈");
 }
 alert("Espero que podamos completar este Album digital con muchos momentos juntos❤");
 function updateMainImage(index) {
