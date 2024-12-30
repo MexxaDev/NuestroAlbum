@@ -87,6 +87,7 @@ button:disabled {
 .contenedorBotones{
     display: flex;
     margin: 5%;
+    flex-direction: column;
 }
 .contadorBotones--btns{
     padding: 8px;
